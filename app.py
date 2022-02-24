@@ -7,11 +7,11 @@ import plotly.graph_objs as go
 beers=['Hoegaarden', 'Sierra Nevada', 'Blue Moon', 'Kingfisher Ultra']
 ibu_values=[35, 60, 85, 75]
 abv_values=[5.4, 7.1, 9.2, 4.3]
-color1='lightorange'
+color1='orange'
 color2='yellow'
 mytitle="Comparison"
 tabtitle='beer!'
-myheading="Sam's favorite beers"
+myheading="Sams favorite beers"
 label1='IBU'
 label2='ABV'
 githublink='https://github.com/samrus98/102-flying-dog-beers.git'
