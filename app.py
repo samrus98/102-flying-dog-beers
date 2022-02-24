@@ -15,7 +15,7 @@ myheading="Sam's favorite beers"
 label1='IBU'
 label2='ABV'
 githublink='https://github.com/samrus98/102-flying-dog-beers.git'
-#sourceurl='https://www.flyingdog.com/beers/'
+sourceurl='https://www.flyingdog.com/beers/'
 
 ########### Set up the chart
 bitterness = go.Bar(
